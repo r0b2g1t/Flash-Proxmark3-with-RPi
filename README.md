@@ -1,6 +1,6 @@
-# How to Flash a Proxmark3 with a Raspberry PI 3
+# How to Flash a Proxmark3 with a Raspberry PI 
 
-This repository describes how to flash a Proxmark3 with a Raspberry PI 3 by using the JTAG interface of the Pi.
+This repository describes how to flash a Proxmark3 with a Raspberry PI by using the JTAG interface of the Pi.
 
 ## Install Software
 
@@ -31,7 +31,7 @@ vi /usr/share/openocd/proxmark.cfg
 ```
 Insert the content of the ```proxmark.cfg``` file.
 
-## Connect your Proxmark3 with the Raspberry PI 3
+## Connect your Proxmark3 with the Raspberry PI
 
 The following diagram shows which pins have to be connected to each other.
 ```
